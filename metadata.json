@@ -1,0 +1,6 @@
+{
+  "name": "Game Boy Color to MS-DOS EXE Converter & Mode 13h Suite",
+  "description": "Extract internal GBC ROM metadata (title, manufacturer, version, checksums) and convert Game Boy Color ROMs to 8-bit 320x200 MS-DOS executables with VGA Mode 13h emulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
